@@ -1,6 +1,7 @@
 # BouncingBalls
 
-Bouncing Balls project 
-![](balls.jpg)
+# Bouncing Balls project 
+
+![](balls.JPG)
 
 
