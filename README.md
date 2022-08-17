@@ -1,6 +1,6 @@
 # BouncingBalls
 
-# Bouncing Balls project 
+# a Cool Bouncing Balls project 
 
 ![](balls.JPG)
 
